@@ -17,14 +17,26 @@ let myage = 23;
 myage = 23;
 console.log(myage);
 
-let mylocation = "Norway";
-mylocation = "Bergen";
-console.log(mylocation);
 
-let myemail = "trymkoder@gmail.com";
-myemail = "trymkoder@gmail.com";
-console.log(myemail);
+let text = "Information test welcome¨ first time trying to set up information for javascript project";
+text = "Information test welcome first time setting up information for javascript project";
+console.log(text);
 
+let studentName = "student";
+studentName = "student";
+console.log(studentName);
+
+let studentAge = 23;
+studentAge = 23;
+console.log(studentAge);
+
+let studentLocation = "Norway";
+studentLocation = "Bergen";
+console.log(studentLocation);
+
+let studentEmail = "trymkoder@gmail.com";
+studentEmail = "trymkoder@gmail.com";
+console.log(studentEmail);
 
 
 
