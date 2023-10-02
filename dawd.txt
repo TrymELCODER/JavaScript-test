@@ -1,0 +1,5 @@
+const myDiv = document.querySelector("div");
+console.log(myDiv);
+
+const myH1 = document.querySelector("h1");
+console.log(myH1);
