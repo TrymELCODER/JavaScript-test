@@ -1,0 +1,89 @@
+body {
+    min-height: 100vh;
+    @media (min_width: 340 min_height 300px)
+    @media (max_width: 1260 min_height 1268px)
+    border-radius: 3px;
+    border-right: 30px;
+    border-bottom: 3px;
+}
+
+.buttonContainer {
+    display: flex;
+    gap: 9px;
+    align-items: center;
+    @media (min_width: 340; min_height: 300px);
+    @media (max_width: 1260; min_height: 1268px)
+    border-radius: 3px;
+    border-right: 30px;
+    border-bottom: 3px;
+    
+}
+
+.Card {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+    border-radius: 3px;
+    border-right: 30px;
+    border-bottom: 3px;
+    @media (min_width: 340; min_height: 300px);
+    @media (max_width: 1260; min_height: 1268px)
+
+}
+
+.displayNumber {
+ display: flex;
+ gap: 20px;
+ font-size: 32px;
+ align-items: center;
+color: white;
+cursor: pointer;
+@media (min_width: 340; min_height: 300px);
+@media (max_width: 1260; min_height: 1268px)
+border-radius: 3px;
+    border-right: 30px;
+    border-bottom: 3px;
+}
+
+.plusButton {
+    background: rgb(34,193,195);
+background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
+@media (min_width: 340; min_height: 300px);
+@media (max_width: 1260; min_height: 1268px)
+border-radius: 3px;
+    border-right: 30px;
+    border-bottom: 3px;
+}
+
+.minusButton {
+    background: rgb(34,193,195);
+background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
+@media (min_width: 340; min_height: 300px);
+@media (max_width: 1260; min_height: 1268px)
+border-radius: 3px;
+    border-right: 30px;
+    border-bottom: 3px;
+}
+
+.reset {
+    background: rgb(34,193,195);
+background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
+@media (min_width: 340; min_height: 300px);
+@media (max_width: 1260; min_height: 1268px)
+border-radius: 3px;
+    border-right: 30px;
+    border-bottom: 3px;
+}
+
+
+@media (min_width: 340; min_height: 300px){
+
+}
+
+@media (max_width: 1260; min_height: 1268px){
+    
+}
